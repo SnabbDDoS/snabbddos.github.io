@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Installing
-permalink: /install/
+permalink: /download/
 ---
 SnabbDDoS is only available as source code from and you compile it just like you would compile anything written with Snabb;
 
