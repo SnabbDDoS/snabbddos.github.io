@@ -21,4 +21,4 @@ SnabbDDoS is free and open source under the Apache 2.0 license. Feel free to con
 
 
 ### Authors and Contributors
-SnabbDDoS was originally written by Kristian Larsson (<a href="https://github.com/plajjan" class="user-mention">@plajjan</a>).</p>
+SnabbDDoS was originally written by Kristian Larsson (<a href="https://github.com/plajjan" class="user-mention">@plajjan</a>).
