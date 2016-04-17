@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Installing
+title: Download SnabbDDoS
 permalink: /download/
 ---
+You can download SnabbDDoS to play around with. It's not mature enough for production.
+
+Read about what kind of computer [is optimal for SnabbDDoS](/pc).
+
 SnabbDDoS is only available as source code from and you compile it just like you would compile anything written with Snabb;
 
 ```bash
@@ -19,6 +23,6 @@ cd src
 ./snabb snabbddos --help
 ```
 
-this will yield a pretty long help text on how to use snabbddos.
+this will yield a pretty long help text on how to use `snabbddos`.
 
 The actual logic code is mostly in src/apps/ddos/ddos.lua.
