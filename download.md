@@ -16,7 +16,8 @@ make
 ```
 
 The SnabbDDoS code is on a branch, aptly named `snabbddos`, so make sure you
-are on the correct branch before complaining that things are not working. Provided that the compilation went well, you should be able to run;
+are on the correct branch before complaining that things are not working.
+Provided that the compilation went well, you should be able to run;
 
 ```bash
 cd src
