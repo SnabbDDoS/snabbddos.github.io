@@ -7,11 +7,13 @@ You can download SnabbDDoS to play around with. It's not mature enough for produ
 
 Read about what kind of computer [is optimal for SnabbDDoS](/pc).
 
-SnabbDDoS is only available as source code from and you compile it just like you would compile anything written with Snabb;
+SnabbDDoS is only available as source code from GitHub and you compile it just
+like you would compile anything written with Snabb;
 
 ```bash
 git clone git@github.com:SnabbDDoS/snabb.git
 cd snabb
+git checkout snabbddos
 make
 ```
 
